@@ -18,7 +18,13 @@ body {
 
 .link__exam-2 a{
     text-decoration: none;
+    padding: 8px 12px;
     color: #fff;
+}
+
+.link__exam-2 a:hover{
+    background-color: cadetblue;
+    border-radius: 5px;
 }
 
 .container {
